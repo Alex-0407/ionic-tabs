@@ -35,3 +35,10 @@ $ ionic platform add ios
 $ ionic build ios
 $ ionic emulate ios
 $ ionic run ios
+
+
+参考链接：
+
+ionic菜鸟教程：http://www.runoob.com/ionic/ionic-install.html
+
+ionic官方文档：http://ionicframework.com/docs/overview/
