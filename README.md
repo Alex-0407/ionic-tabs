@@ -1,6 +1,7 @@
 1、ionic 安装
 
 命令行安装
+
 1.1 首先您需要安装 Node.js。
 
 Node.js安装包及源码下载地址为：https://nodejs.org/en/download/。 
@@ -14,8 +15,10 @@ $ npm install -g cordova ionic
 2、ionic 创建 APP
 
 2.1 $ionic start ionic-blank blank
+
 2.2 $ionic start ionic-sidemenu sidemenu
-2.2 $ionic start ionic-tabs tabs
+
+2.3 $ionic start ionic-tabs tabs
 
 3、创建Android应用
 
