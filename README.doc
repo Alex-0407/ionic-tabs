@@ -1,4 +1,4 @@
-1、ionic 安装
+﻿1、ionic 安装
 
 命令行安装
 
@@ -20,7 +20,11 @@ $ npm install -g cordova ionic
 
 2.3 $ionic start ionic-tabs tabs
 
-3、创建Android应用
+3、在浏览器预览
+
+$ionic serve
+
+4、创建Android应用
 
 $ cd myApp
 $ ionic platform add android
@@ -28,7 +32,7 @@ $ ionic build android
 $ ionic emulate android
 $ ionic run android
 
-4、创建iOS应用
+5、创建iOS应用
 
 $ cd myApp
 $ ionic platform add ios
