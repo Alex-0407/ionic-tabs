@@ -3,7 +3,7 @@ README
 ionic-tabs
 
 ****
-###　Author:Alex Dong
+### Author:Alex Dong
 
 ===========================
 
@@ -14,13 +14,13 @@ ionic-tabs
 3. `npm install`
 4. run `ionic serve` from a terminal
 
-### 项目截图:
+### 椤圭洰鎴浘:
 
-<img src="https://github.com/Alex-0407/ionic-tabs/blob/master/src/assets/img/1.PNG" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic-tabs/blob/master/www/img/1.PNG" width="320px" style="display:inline;">
     
-<img src="https://github.com/Alex-0407/ionic-tabs/blob/master/src/assets/img/2.PNG" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic-tabs/blob/master/www/img/2.PNG" width="320px" style="display:inline;">
 
-<img src="https://github.com/Alex-0407/ionic-tabs/blob/master/src/assets/img/3.PNG" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic-tabs/blob/master/www/img/3.PNG" width="320px" style="display:inline;">
 
-### 项目地址：
+### 椤圭洰鍦板潃
 https://github.com/Alex-0407/ionic-tabs
